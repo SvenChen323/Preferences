@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PreferencesTutorial.iml" filepath="$PROJECT_DIR$/PreferencesTutorial.iml" />
+      <module fileurl="file://D:\andpro\AndroidTutorials-master\PreferencesTutorial\PreferencesTutorial.iml" filepath="D:\andpro\AndroidTutorials-master\PreferencesTutorial\PreferencesTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\andpro\AndroidTutorials-master\PreferencesTutorial\app\app.iml" filepath="D:\andpro\AndroidTutorials-master\PreferencesTutorial\app\app.iml" />
+    </modules>
+  </component>
+</project>
